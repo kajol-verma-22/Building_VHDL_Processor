@@ -3,7 +3,6 @@
 
 The processor designing is divided into following sections:-
 
-
 Section1: Building Instruction(IR)+ Arithmetic Unit(AR)
 -Instruction Reg Size= 32 bits
 -Adding and Testing Arithmetic Unit
@@ -73,3 +72,4 @@ Section5: Adding Branch and Jump Instructions
 11000000000000000000000000000100
 00001001010001000000000000000000
 11011000000000000000000000000000
+
